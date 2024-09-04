@@ -1,0 +1,18 @@
+
+# Seu Nome
+
+
+## Curso
+
+TI-web SENAI 
+
+## Interesses
+
+- gosto de programação e quebro a cabeça estudando
+
+## Projetos
+Aprendendo a fazer um fork para clonar projetos
+
+## Link do Perfil
+
+[Miguel Ramos dos Santos](https://github.com/RaMMos7/Aprenda-Git)
